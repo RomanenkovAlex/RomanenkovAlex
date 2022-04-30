@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RomanenkovAlexander
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python/pascal/c++
+- 🌱 I’m currently learning -
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me afleksik@gmail.com
 
