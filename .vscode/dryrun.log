@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/afleksik/Desktop/prog'
+gcc -Wall -Wextra -Wpedantic -g -L./inc -o ./bin/library obj/functions_out_search.o obj/library.o obj/menu.o 
+make: Leaving directory '/home/afleksik/Desktop/prog'
+ 
